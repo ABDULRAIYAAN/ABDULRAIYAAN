@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <div align="center" id="top">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0033&height=220&section=header&text=Abdul%20Raiyaan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20AI%2FML%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0033&height=220&section=header&text=Abdul%20Raiyaan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20AI%2FML%20Engineer%20%7C%20DataScience%20Enthusiast&descAlignY=55&descSize=18)
 
 <a href="https://github.com/ABDULRAIYAAN">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF0033&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Full+Stack+%2B+AI+Builder;Diving+into+Cybersecurity+%26+Hacking;Building+vaXease+%2C+NEXUS+%26+Scholarity;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 🎯 Currently Focused On
 
-- 🔭 Building **vaXease**, **NEXUS** & **Scholarity** — turning coursework into real products
+- 🔭 Built **vaXease**, **NEXUS** & **Scholarity** — turning coursework into real products
 - 🧠 Deepening my AI/ML foundations (models, training pipelines, real-world deployment)
 - 🔐 Exploring cybersecurity & ethical hacking on the side
 - 🌍 Setting my sights on tech opportunities in the **US 🇺🇸 / UK 🇬🇧**
