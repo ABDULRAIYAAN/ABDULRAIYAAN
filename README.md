@@ -13,8 +13,9 @@ AI/ML engineering student at Taylor's University x UWE Bristol. I build things e
 | Project | What it is | Built with |
 |---|---|---|
 | [VaultDB](https://github.com/ABDULRAIYAAN/vaultdb) | Key-value database from scratch, with persistence and crash recovery | Go |
+| [NEXUS](https://github.com/ABDULRAIYAAN/nexus) | Advisor and client portal with an AI assistant, built with a hackathon team | Next.js, React, TypeScript |
 | [Portfolio](https://github.com/ABDULRAIYAAN/portfolio) | My personal site, live at [raiyaan-eight.vercel.app](https://raiyaan-eight.vercel.app) | React, Vite, Three.js |
-| [VaXease](https://github.com/ABDULRAIYAAN/vaXease) | Vaccination compliance platform with HR, parent and nurse portals. Hult Prize entry | HTML, CSS, JavaScript |
+| [VaXease](https://github.com/ABDULRAIYAAN/vaXease) | Vaccination compliance platform with HR, parent and nurse portals. Hult Prize entry. [Live demo](https://abdulraiyaan.github.io/vaXease/) | HTML, CSS, JavaScript |
 | [Scholarity](https://github.com/ABDULRAIYAAN/Scholarity) | Student resource system for SDG 4: requirements, design, prototype and user testing | Systems analysis and design |
 
 ## Experience
